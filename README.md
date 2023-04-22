@@ -1,6 +1,6 @@
 #### 「 Chunyang Wang 」
 
-<img src="https://raw.githubusercontent.com/chunyang-w/chunyang-w/58213655120b3817917998f351fe2a0faeb3034a/assest/profile.svg" alt="Typing SVG" /></a>
+<img src="https://raw.githubusercontent.com/chunyang-w/chunyang-w/14ff684e83a519e23efde4cf0f0428a52876c57a/assest/profile.svg" alt="Typing SVG" />
 
 - 🎓 I’m currently learning [Applied Computational Science and Engineering](https://www.imperial.ac.uk/study/courses/postgraduate-taught/applied-computational-science/) at Imperial College London.
 - Devoted to be a lifelong learner 📚 it empowers 💪🏻 me.
