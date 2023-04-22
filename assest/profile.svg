@@ -42,7 +42,7 @@
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
-            &lt; 📖  also a life long leaner  / &gt;
+            &lt;  also 📖 a life long leaner  / &gt;
         </textPath>
     </text>
         <path id='path3'>
@@ -55,7 +55,7 @@
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path3'>
-            &lt; tech explorer🧭  / &gt;
+            &lt; 🧭 tech explorer / &gt;
         </textPath>
     </text>
 </svg>
