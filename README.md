@@ -4,7 +4,7 @@
 
 - Life long 📖 learner and 🧭 Tech-explorer.
 - I am ❤️‍🔥 passionate about **Creating software**, **Computational Science** and **Machine Learning**.
-- PhD student @ Imperial.
+- PhD student @ [Imperial](https://www.imperial.ac.uk/).
 - 🎓 Former MSc Student of: [Applied Computational Science and Engineering](https://www.imperial.ac.uk/study/courses/postgraduate-taught/applied-computational-science/).
 - LinkedIn: https://www.linkedin.com/in/chunyang-wang-83135b201/.
 
