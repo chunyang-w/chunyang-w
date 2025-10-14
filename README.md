@@ -4,5 +4,5 @@
 
 - Life long 📖 learner and 🧭 Tech-explorer.
 - I am ❤️‍🔥 passionate about **Creating software**, **Computational Science** and **Machine Learning**.
-- PhD student @ [Imperial College London 🇬🇧](https://www.imperial.ac.uk/)
+- PhD student @ [Imperial College London 🇬🇧](https://www.imperial.ac.uk/) working with [Prof. Gege Wen](https://gegewen.github.io/)
 - LinkedIn: https://www.linkedin.com/in/chunyang-wang-83135b201/.
